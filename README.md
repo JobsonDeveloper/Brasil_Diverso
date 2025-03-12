@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://brasil-diverso.vercel.app/)
 
 ### Ferramentas utiliizadas:
