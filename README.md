@@ -7,7 +7,9 @@
 ### Lista completa:
 HTML | CSS | jQuery | Bootstrap | Git | Vercel
 
-Este projeto foi criado 
+Site de divulgação das festas mais famosas do Brasil.
+Tem como objetivo deixar os usuários mais informados sobre os locais mais movimentados em determinadas festas.
+Apresenta uma aparência intuitiva e responsiva, melhorando assim a experiência do usuário.
 
 ![image](https://github.com/user-attachments/assets/652d992d-2304-4cb8-9b25-1fc813934bba)
 <br/>
